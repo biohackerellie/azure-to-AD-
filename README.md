@@ -1,4 +1,4 @@
-# azure-to-AD-
+# Azure-to-AD
 converts groups made in Azure to local AD security groups in Powershell
 
 
