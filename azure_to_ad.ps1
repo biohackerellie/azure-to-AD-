@@ -7,10 +7,10 @@ Connect-Azuread
 #Convert the Azure groups here. Add additional values as needed
 
 $map = @{
-    '<Azure-Object-ID-01' = 'Active_directory-Security-Group-1' 
-    '<Azure-Object-ID-02' = 'Active_directory-Security-Group-2' 
-    '<Azure-Object-ID-03' = 'Active_directory-Security-Group-3'  
-    '<Azure-Object-ID-04' = 'Active_directory-Security-Group-4'  
+    'Azure-Object-ID-01' = 'Active_directory-Security-Group-1' 
+    'Azure-Object-ID-02' = 'Active_directory-Security-Group-2' 
+    'Azure-Object-ID-03' = 'Active_directory-Security-Group-3'  
+    'Azure-Object-ID-04' = 'Active_directory-Security-Group-4'  
 }
 
 foreach($pair in $map.GetEnumerator()) {
