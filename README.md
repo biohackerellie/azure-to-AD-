@@ -1,7 +1,7 @@
 # Azure-to-AD
-==============
+
 ## Converts groups made in Azure to local AD security groups in Powershell
-===========================================================================
+
 
 
 Working at a k-12 school district, we have students in after school activites who needed badge access to the building based on their activity time. Their classes sync into Azure automatically, and our security software syncs from AD so we needed a way to convert the classes into security groups, and then remove students from the access groups once they were no longer in the class or activity. This is what I came up with, and since I'm new to scripting languages in general, I'm keeping a record of all of these things I come up with 🤷‍♀️
