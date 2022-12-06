@@ -7,11 +7,11 @@ you must have the azuread model installed for powershell
     Install-Module AzureAD
     import-Moduel AzureAD
 ```
-#Setup In Portal.Azure.com
+
 
 ---
 
-#Setup In Portal.Azure.com
+# Setup In Portal.Azure.com
 
 ## Start by adding an app registration in Azure portal
 
